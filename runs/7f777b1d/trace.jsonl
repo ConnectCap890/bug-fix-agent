@@ -1,0 +1,1 @@
+{"event": "run_complete", "task": "t01", "model": "llama3.2:3b", "stop_reason": "api_error", "steps": 1, "elapsed_s": 0}
